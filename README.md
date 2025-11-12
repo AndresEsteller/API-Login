@@ -2,6 +2,8 @@
 
 La API de Login proporciona un sistema completo de autenticación y gestión de usuarios. Incluye funcionalidades esenciales para el control de acceso y administración de cuentas, tanto para usuarios normales como con roles asignados.
 
+Desarrollada con ASP .NET Core Web API y SQL Server.
+
 --- Funcionalidades principales ---
 
  * Registro de usuarios (con y sin rol asignado).
